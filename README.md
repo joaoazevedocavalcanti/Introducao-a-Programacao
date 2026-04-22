@@ -1,4 +1,4 @@
-🐍 Introdução à Programação
+Introdução à Programação
 
 ![Status](https://img.shields.io/badge/status-%20concluído-green)
 ![Language](https://img.shields.io/badge/language-Python-blue)
@@ -10,7 +10,7 @@ Repositório com exercícios e atividades da disciplina de **Introdução à Pro
 
 ---
 
-## 📋 Listas
+## Listas
 
 | Lista | Tópico                | Status       |
 |-------|-----------------------|--------------|
